@@ -1,6 +1,6 @@
 # Ola-osoko Oluwajinmi
 
-👋 Hi there! I’m Jinmi, an IT student specialzed in engineering secure systems. With a passion for cybersecurity, I build secure and scalable systems, APIs and scripts with languages like Python and Go across several cloud platforms.
+👋 Hi there! I’m Jinmi, an IT student specialized in engineering secure systems. With a passion for cybersecurity, I build secure and scalable systems, APIs and scripts with languages like Python and Go across several cloud platforms.
 
 ## 🔧 Technical Skills
 
