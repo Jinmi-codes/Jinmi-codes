@@ -4,10 +4,9 @@
 
 ## 🔧 Technical Skills
 
-- Languages: Python, Go, JavaScript, HTML, CSS
+- Languages: Python, Go, JavaScript, C/C++, HTML, CSS
 - Scripting: Bash, Powershell
-- Databases: MySQL, PostgreSQL, MongoDB
-- DevOps: Docker, Jenkins, CI/CD, Cloud Services (AWS, Google Cloud)
+- Cloud platforms: Azure
 - Other: Agile Methodologies, Test-Driven Development, Pair Programming
 
 ## 🎯 Goals
